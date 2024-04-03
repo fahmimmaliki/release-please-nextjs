@@ -1,5 +1,19 @@
 # Changelog
 
+## [1.2.2](https://github.com/fahmimmaliki/release-please-nextjs/compare/release-please-nextjs-v1.2.1...release-please-nextjs-v1.2.2) (2024-04-03)
+
+
+### ♻️ OPS
+
+* test ci/cd workflow commit ([f81ceb6](https://github.com/fahmimmaliki/release-please-nextjs/commit/f81ceb6644093b0e93455ddda8a17333f1dff632))
+* test ops ci ([f81ceb6](https://github.com/fahmimmaliki/release-please-nextjs/commit/f81ceb6644093b0e93455ddda8a17333f1dff632))
+* test ops section ([95828f5](https://github.com/fahmimmaliki/release-please-nextjs/commit/95828f59ee5fbc876815568a66d59568a3bbb90b))
+
+
+### 📜 Documentation
+
+* test docs section ([95828f5](https://github.com/fahmimmaliki/release-please-nextjs/commit/95828f59ee5fbc876815568a66d59568a3bbb90b))
+
 ## [1.2.1](https://github.com/fahmimmaliki/release-please-nextjs/compare/release-please-nextjs-v1.2.0...release-please-nextjs-v1.2.1) (2024-04-03)
 
 
