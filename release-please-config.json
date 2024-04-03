@@ -35,6 +35,10 @@
         "type": "ops"
       },
       {
+        "section": "♻️ OPS",
+        "type": "ci"
+      },
+      {
         "section": "📜 Documentation",
         "type": "docs"
       }
