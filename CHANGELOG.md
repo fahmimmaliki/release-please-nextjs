@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.3](https://github.com/fahmimmaliki/release-please-nextjs/compare/release-please-nextjs-v1.2.2...release-please-nextjs-v1.2.3) (2024-04-03)
+
+
+### 📜 Documentation
+
+* trigger documentation section ([d5065ea](https://github.com/fahmimmaliki/release-please-nextjs/commit/d5065ea39ca1e4d7b5bbf88f72e432cfd5c8ff35))
+
 ## [1.2.2](https://github.com/fahmimmaliki/release-please-nextjs/compare/release-please-nextjs-v1.2.1...release-please-nextjs-v1.2.2) (2024-04-03)
 
 
