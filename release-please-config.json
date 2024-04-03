@@ -23,6 +23,10 @@
         "type": "chore"
       },
       {
+        "section": "👽 Miscellaneous",
+        "type": "style"
+      },
+      {
         "section": "⬆️ Dependency updates",
         "type": "deps"
       },
