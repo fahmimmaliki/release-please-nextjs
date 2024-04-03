@@ -1,5 +1,18 @@
 # Changelog
 
+## [1.2.1](https://github.com/fahmimmaliki/release-please-nextjs/compare/release-please-nextjs-v1.2.0...release-please-nextjs-v1.2.1) (2024-04-03)
+
+
+### 🐛 Bugfixes
+
+* test same section bugfix ([ee47b5f](https://github.com/fahmimmaliki/release-please-nextjs/commit/ee47b5f5dea1c6eb1480f4e8006186768a21230e))
+
+
+### 👽 Miscellaneous
+
+* test include style to Miscellaneous ([ee47b5f](https://github.com/fahmimmaliki/release-please-nextjs/commit/ee47b5f5dea1c6eb1480f4e8006186768a21230e))
+* test same section chore ([ee47b5f](https://github.com/fahmimmaliki/release-please-nextjs/commit/ee47b5f5dea1c6eb1480f4e8006186768a21230e))
+
 ## [1.2.0](https://github.com/fahmimmaliki/release-please-nextjs/compare/release-please-nextjs-1.1.0...release-please-nextjs-v1.2.0) (2024-04-02)
 
 
