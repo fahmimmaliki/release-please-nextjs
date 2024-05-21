@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.4](https://github.com/fahmimmaliki/release-please-nextjs/compare/release-please-nextjs-v1.2.3...release-please-nextjs-v1.2.4) (2024-05-21)
+
+
+### 👽 Miscellaneous
+
+* update release-please ([ac44846](https://github.com/fahmimmaliki/release-please-nextjs/commit/ac448460a0cd68ab13e0a93a484bcae5562e65c3))
+
 ## [1.2.3](https://github.com/fahmimmaliki/release-please-nextjs/compare/release-please-nextjs-v1.2.2...release-please-nextjs-v1.2.3) (2024-04-03)
 
 
