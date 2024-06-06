@@ -1,7 +1,7 @@
 on:
   push:
     branches:
-      - test-localhost
+      - main
 
 permissions:
   contents: write
@@ -13,6 +13,12 @@ jobs:
   release-please:
     runs-on: self-hosted
     steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+        
+      - name: Run build
+        run: bun run build
+        
       - uses: googleapis/release-please-action@v4
         with:
           # this assumes that you have created a personal access token
@@ -23,3 +29,4 @@ jobs:
           config-file: release-please-config.json
           # optional. customize path to .release-please-manifest.json
           manifest-file: .release-please-manifest.json
+      
